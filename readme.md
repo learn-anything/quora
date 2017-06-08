@@ -4,7 +4,7 @@ This is an extension to [Learn Anything Search Engine](https://learn-anything.xy
 
 This list is generated from this mind map image : 
 
-[](http://i.imgur.com/oQyksC3.png)
+![](http://i.imgur.com/oQyksC3.png)
 
 Pull requests are welcome. Thank you. 💙
 
