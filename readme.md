@@ -2,32 +2,27 @@
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting quora communities one can explore to learn new things and discover new insights. 🔭
 
+This list is generated from this mind map image : 
+
+[](http://i.imgur.com/oQyksC3.png)
+
 Pull requests are welcome. Thank you. 💙
 
 # Communities 
 
-- [JetBrains](https://www.quora.com/topic/JetBrains)
-
-
-- [theoretical computer science ✨](https://www.quora.com/topic/Theoretical-Computer-Science)
-
-
-- [vim plugins](https://www.quora.com/topic/Vim-Plugins)
-
-
 - [IntelliJ](https://www.quora.com/topic/IntelliJ-IDEA)
 
 
-- [algorithms ✨](https://www.quora.com/topic/Algorithms)
+- [algorithms](https://www.quora.com/topic/Algorithms)
 
 
 - [vim](https://www.quora.com/topic/Vim-text-editor)
 
 
-- [computer science ✨](https://www.quora.com/topic/Computer-Science)
+- [computer science](https://www.quora.com/topic/Computer-Science)
 
 
-- matrix computations 
+- [matrix computations ](https://www.quora.com/topic/Matrix-Computations)
 
 
 - [Intel](https://www.quora.com/topic/Intel-company)
@@ -36,7 +31,7 @@ Pull requests are welcome. Thank you. 💙
 - [sublime text](https://www.quora.com/topic/Sublime-Text)
 
 
-- [artificial intelligence ✨](https://www.quora.com/topic/Artificial-Intelligence)
+- [artificial intelligence](https://www.quora.com/topic/Artificial-Intelligence)
 
 
 - [emacs](https://www.quora.com/topic/Emacs)
@@ -48,7 +43,7 @@ Pull requests are welcome. Thank you. 💙
 - [matrices](https://www.quora.com/topic/Matrices-mathematics)
 
 
-- [discrete mathematics ✨](https://www.quora.com/topic/Discrete-Mathematics)
+- [discrete mathematics](https://www.quora.com/topic/Discrete-Mathematics)
 
 
 - [text editors](https://www.quora.com/topic/Text-Editors)
@@ -60,10 +55,10 @@ Pull requests are welcome. Thank you. 💙
 - [CPUs](https://www.quora.com/topic/Central-Processing-Units-CPUs)
 
 
-- [machine learning ✨](https://www.quora.com/topic/Machine-Learning)
+- [machine learning](https://www.quora.com/topic/Machine-Learning)
 
 
-- [linear algebra ✨](https://www.quora.com/topic/Linear-Algebra)
+- [linear algebra](https://www.quora.com/topic/Linear-Algebra)
 
 
 - [garbage collection](https://www.quora.com/topic/Garbage-Collection-programming)
@@ -84,67 +79,67 @@ Pull requests are welcome. Thank you. 💙
 - [memory management](https://www.quora.com/topic/Memory-Management-computer-programming)
 
 
-- [functional programming ✨](https://www.quora.com/topic/Functional-Programming)
+- [functional programming](https://www.quora.com/topic/Functional-Programming)
 
 
 - [computers](https://www.quora.com/topic/Computers)
 
 
-- [compilers ✨](https://www.quora.com/topic/JavaScript-programming-language)
+- [compilers](https://www.quora.com/topic/JavaScript-programming-language)
 
 
-- [set theory ✨](https://www.quora.com/topic/Set-Theory)
+- [set theory](https://www.quora.com/topic/Set-Theory)
 
 
-- [algebra ✨](https://www.quora.com/topic/Algebra)
+- [algebra](https://www.quora.com/topic/Algebra)
 
 
-- [mathematics ✨](https://www.quora.com/topic/Mathematics)
+- [mathematics](https://www.quora.com/topic/Mathematics)
 
 
-- [technology ✨](https://www.quora.com/topic/Technology)
+- [technology](https://www.quora.com/topic/Technology)
 
 
-- [LLVM ✨](https://www.quora.com/topic/LLVM)
+- [LLVM](https://www.quora.com/topic/LLVM)
 
 
-- [combinatorics ✨](https://www.quora.com/topic/Combinatorics)
+- [combinatorics](https://www.quora.com/topic/Combinatorics)
+
+
+- [graph theory](https://www.quora.com/topic/Graph-Theory)
 
 
 - [computer memory](https://www.quora.com/topic/Computer-Memory)
 
 
-- [graph theory ✨](https://www.quora.com/topic/Graph-Theory)
-
-
-- [computer programming ✨](https://www.quora.com/topic/Computer-Programming)
+- [computer programming](https://www.quora.com/topic/Computer-Programming)
 
 
 - [GCC](https://www.quora.com/topic/GCC-compiler)
 
 
-- [number theory ✨](https://www.quora.com/topic/Number-Theory)
+- [number theory](https://www.quora.com/topic/Number-Theory)
 
 
-- [haskell ✨](https://www.quora.com/topic/Haskell-programming-language)
+- [haskell](https://www.quora.com/topic/Haskell-programming-language)
 
 
-- [science ✨](https://www.quora.com/topic/Science)
+- [science](https://www.quora.com/topic/Science)
 
 
-- movies
+- [movies](https://www.quora.com/topic/Movies)
 
 
-- [logic ✨](https://www.quora.com/topic/Logic-mathematics)
+- [logic](https://www.quora.com/topic/Logic-mathematics)
 
 
-- [programming languages ✨](https://www.quora.com/topic/Programming-Languages)
+- [programming languages](https://www.quora.com/topic/Programming-Languages)
 
 
 - [lisp](https://www.quora.com/topic/Lisp-programming-language)
 
 
-- [geometry ✨](https://www.quora.com/topic/Geometry)
+- [geometry](https://www.quora.com/topic/Geometry)
 
 
 - [datasets](https://www.quora.com/topic/Datasets)
@@ -156,7 +151,7 @@ Pull requests are welcome. Thank you. 💙
 - [node.js](https://www.quora.com/topic/Node-js)
 
 
-- [economics ✨](https://www.quora.com/topic/Economics)
+- [economics](https://www.quora.com/topic/Economics)
 
 
 - [data science](https://www.quora.com/topic/Data-Science)
@@ -171,7 +166,7 @@ Pull requests are welcome. Thank you. 💙
 - [literature](https://www.quora.com/topic/Literature)
 
 
-- data
+- [data](https://www.quora.com/topic/Data)
 
 
 - [c++](https://www.quora.com/topic/C++-programming-language)
