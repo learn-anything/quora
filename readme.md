@@ -1,4 +1,16 @@
-# Quora communities all can learn from 📚
+<h1 align="center"> Quora communities all can learn from 📚 </h1>
+
+<div align="center">
+<a href="https://www.patreon.com/learnanything">
+		<img src="https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg">
+	</a>
+	<a href="https://github.com/learn-anything/quora/blob/master/LICENSE">
+		<img src="https://img.shields.io/pypi/l/pipenv.svg">
+	</a>
+</div>
+
+<h1 align="center"> Description 📕</h1>
+
 
 This is an extension to [Learn Anything Search Engine](https://learn-anything.xyz/) that lists all the interesting quora communities one can explore to learn new things and discover new insights. 🔭
 
@@ -8,7 +20,7 @@ This list is generated from this mind map image :
 
 Pull requests are welcome. Thank you. 💙
 
-# Communities 
+<h1 align="center"> Communities </h1>
 
 - [IntelliJ](https://www.quora.com/topic/IntelliJ-IDEA)
 
