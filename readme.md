@@ -1,7 +1,6 @@
 # Quora communities all can learn from 📚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-
 ## Description 📕
-Here is a curated list of all the interesting quora communities one can explore to learn new things and discover new insights. 🔭
+Here is a curated list of all the interesting quora communities one can explore to learn new things and discover new insights. 
 
 Pull requests are welcome. Thank you. 💙
 
