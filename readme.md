@@ -1,8 +1,8 @@
-# Quora communities all can learn from 📚 [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
-## Description 📕
-Here is a curated list of all the interesting quora communities one can explore to learn new things and discover new insights. 
+# Quora communities [![Lists](https://img.shields.io/badge/More%20Lists-🔖-blue.svg)](https://github.com/learn-anything/maps#explore-and-improve-our-curated-lists)  [![Thanks](https://img.shields.io/badge/Say%20Thanks-💗-ff69b4.svg)](https://www.patreon.com/learnanything)
 
-Pull requests are welcome. Thank you. 💙
+This is a curated list of all the interesting quora communities.
+
+Pull requests are welcome. Thank you. 💜
 
 ## Communities
 - [IntelliJ](https://www.quora.com/topic/IntelliJ-IDEA)
@@ -67,3 +67,6 @@ Pull requests are welcome. Thank you. 💙
 - [MapReduce](https://www.quora.com/topic/MapReduce)
 - [clojure](https://www.quora.com/topic/Clojure-programming-language)
 - [jvm](https://www.quora.com/topic/Java-Virtual-Machine-JVM)
+
+## Contribute 
+If you found a Quora communiy that you really like, feel free to add it to this list. Just choose an appropriate category for it and add an appropriate description and make the [Pull Request](https://help.github.com/articles/about-pull-requests/).
