@@ -1,5 +1,5 @@
 # Awesome Quora Topics [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#readme) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#readme) before contributing.*
 
 ## Topics
 - [IntelliJ](https://www.quora.com/topic/IntelliJ-IDEA)
@@ -66,7 +66,7 @@
 - [Jvm](https://www.quora.com/topic/Java-Virtual-Machine-JVM)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
